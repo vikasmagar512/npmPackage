@@ -1,7 +1,7 @@
 {
   "name": "vikas-first-npm",
   "version": "1.0.0",
-  "description": "print function",
+  "description": "print function which prepends vikas",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,6 @@
     "vikas"
   ],
   "author": "vikasmagar512@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+ "homepage":"https://github.com/vikasmagar512/npmPackage"
 }
