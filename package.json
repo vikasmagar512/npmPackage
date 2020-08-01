@@ -1,0 +1,15 @@
+{
+  "name": "vikas-first-npm",
+  "version": "1.0.0",
+  "description": "print function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "print",
+    "vikas"
+  ],
+  "author": "vikasmagar512@gmail.com",
+  "license": "ISC"
+}
